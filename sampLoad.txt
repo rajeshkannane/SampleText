@@ -1,0 +1,8 @@
+Hello
+This is my first git file to upload
+Please follow the procedure
+git init
+git add sampLoad.txt
+git status
+git commit -m "initial commit"
+ 
